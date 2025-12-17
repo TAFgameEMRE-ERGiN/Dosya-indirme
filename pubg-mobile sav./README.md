@@ -1,2 +1,17 @@
-# PUBG Mobile Save Dosyaları
-Bu klasör PUBG Mobile kayıt dosyaları içindir.
+# 🎮 TAFgame İndirme Alanı
+
+Burada oyunlara ait dosyalar ve kayıt (save) dosyaları bulunur.
+
+📁 **Klasörler**
+- 🎲 **oyun-dosyalari** → Genel oyun dosyaları
+- 🔥 **pubg-mobile-sav** → PUBG Mobile `.sav` dosyaları
+
+⬇️ **Dosyayı indirmek için:**
+1. ⬆️ Yukarıdaki klasörlerden birine gir
+2. 📄 Dosyaya tıkla
+3. ⬇️ **Download** butonuna bas ↓
+
+
+---
+
+📌 Basit • Düzenli • Güncel
