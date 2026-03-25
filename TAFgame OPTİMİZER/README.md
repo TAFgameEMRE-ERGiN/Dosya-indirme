@@ -1,10 +1,12 @@
-🔥 GAMELOOP PERFORMANS ARTTIRMA YAZILIMI 🔥</h1>
+<h1 align="center">🔥 GAMELOOP PERFORMANS ARTTIRMA YAZILIMI 🔥</h1>
 
+<p align="center">
   ⚡ Daha Fazla FPS • Daha Akıcı Oyun • Maksimum Performans ⚡
+</p>
 
 ---
 
-🚀 TAFGAME AİLESİ SUNAR 🚀
+<h2 align="center">🚀 TAFGAME AİLESİ SUNAR 🚀</h2>
 
 ---
 
@@ -44,4 +46,6 @@
 
 ---
 
+<p align="center">
   🔥 <b>TAFGAME AİLESİ İLE OYUNDA FARK YARAT!</b> 🔥
+</p>
